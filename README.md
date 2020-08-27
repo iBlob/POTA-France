@@ -4,10 +4,17 @@ Parks of the Air (POTA) - French database
 ## ToDo List
 
 1. Import POTA list in local database
+  * https://api.pota.us/locations/F-FR
 2. Import french parks with good names and coordinates
-  * Parcs Naturels Nationaux : http://www.parcsnationaux.fr/fr, https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_de_France, https://en.wikipedia.org/wiki/List_of_national_parks_of_France
-  * Parcs Naturels Régionaux : https://commons.wikimedia.org/wiki/File:Parcs_naturels_fran%C3%A7ais.svg?uselang=fr
-  * Natura 2000 : https://www.natura2000.fr/, https://inpn.mnhn.fr/site/natura2000/listeSites
+  * Parcs Naturels Nationaux :
+    * http://www.parcsnationaux.fr/fr
+    * https://fr.wikipedia.org/wiki/Liste_des_parcs_naturels_de_France
+    * https://en.wikipedia.org/wiki/List_of_national_parks_of_France
+  * Parcs Naturels Régionaux
+    * https://commons.wikimedia.org/wiki/File:Parcs_naturels_fran%C3%A7ais.svg?uselang=fr
+  * Natura 2000
+    * https://www.natura2000.fr/
+    * https://inpn.mnhn.fr/site/natura2000/listeSites
 
 ## Notes
 
